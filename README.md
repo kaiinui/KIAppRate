@@ -1,0 +1,4 @@
+KIAppRate
+=========
+
+More friendly Appirator.
